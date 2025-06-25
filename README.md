@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">Data Analyst and a passionate learner from India</h3>
 
 ---
 
