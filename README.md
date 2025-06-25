@@ -11,7 +11,7 @@ I'm currently working on a ML based project to detect disease and its severity i
 ---
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-agrawal-b63798268) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-agr) 
 <a href="https://www.codechef.com/users/aditiaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditiaa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aditi786aaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditi786aaa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aditi_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditi_786" height="30" width="40" /></a>
