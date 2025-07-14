@@ -4,8 +4,6 @@
 ---
 
 # 💫 About Me:
-I'm currently working on a AI chatbot that uses extensive knowlegde base.
-<br>
 I'm looking to collaborate on any project where my tech stack matches.<br>I'm currently learning new technologies and trying to keep up with what I already know<br>I'm still a student who is about to enter into the jungle named corporate world.
 
 [Portfolio Website](https://aditi-1304.github.io/index.html)
