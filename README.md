@@ -23,7 +23,7 @@ I also recently built and deployed my personal [Portfolio Website](https://ctrla
 
 ---
 
-# 🌐 Socials:
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-agr)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditiaa)
@@ -32,7 +32,7 @@ I also recently built and deployed my personal [Portfolio Website](https://ctrla
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,7 +45,7 @@ I also recently built and deployed my personal [Portfolio Website](https://ctrla
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
-# Stats
+## GitHub Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-1304&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-1304" /> </p>
 
