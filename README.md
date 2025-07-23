@@ -19,7 +19,7 @@ Beyond code, I enjoy the architecture of projects — thinking through the flow,
 
 I’m also someone who values clean code, clear logic, and the satisfaction that comes when things “just work”.
 
-I also recently built and deployed my personal [Portfolio Website](https://ctrladiti.github.io/index.html) as a front-end learning experiment—without only a little prior knowledge of HTML/CSS/JS when I started.
+I also recently built and deployed my personal [Portfolio Website](https://ctrladiti.github.io/index.html) as a front-end learning experiment—with only a little prior knowledge of HTML/CSS/JS when I started.
 
 ---
 
