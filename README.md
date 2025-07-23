@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
-<h3 align="center">Data Analyst and a passionate learner from India</h3>
+<h3 align="center">Data Analyst | Aspiring Software Developer | Problem Solver | Learner</h3>
 
 ---
 
-# 💫 About Me:
+## 💫 About Me:
 I’m a developer, problem solver, and lifelong learner who loves building things that make a difference — whether it's through a line of clean code, a powerful data insight, or a seamless user interface.
 
 I approach tech with a balance of logic and creativity. My journey started with writing algorithms in C++, and along the way, I discovered a love for Python, data, and designing user-centric solutions. What excites me most is understanding the “why” behind problems and turning that into a working, efficient product.
@@ -12,6 +12,7 @@ Currently, I’m focused on:
 
 - Exploring real-world problems through data science and machine learning
 - Designing interactive dashboards that tell compelling stories
+- Deepening my expertise in SQL, preprocessing pipelines, and ML modeling
 - Constantly pushing myself to solve tougher problems on platforms like LeetCode, CodeChef, and HackerRank
 
 Beyond code, I enjoy the architecture of projects — thinking through the flow, edge cases, and user experience. I'm someone who learns fast, works independently when needed, but thrives in collaborative environments where feedback and iteration are key.
